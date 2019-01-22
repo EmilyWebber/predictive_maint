@@ -18,10 +18,10 @@ To be the ultimate machine whisperers. Save our company millions (or perhaps bil
  
  # ETL
  
- - Three types of documents are provided: Traning, Testing, Ground truth 
-   Training data: It is the aircraft engine run-to-failure data.
-   Testing data: It is the aircraft engine operating data without failure events recorded.
-   Ground truth data: It contains the information of true remaining cycles for each engine in the testing data.
+ Three types of documents are provided: Traning, Testing, Ground truth 
+   - Training data: It is the aircraft engine run-to-failure data.
+   - Testing data: It is the aircraft engine operating data without failure events recorded.
+   - Ground truth data: It contains the information of true remaining cycles for each engine in the testing data.
    
    The goal with these files is to pre-process them and see if we can predict when the engine will fail with the given aircraft engine operation and failure events history.
 
