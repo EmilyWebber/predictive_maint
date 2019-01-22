@@ -12,9 +12,9 @@ To be the ultimate machine whisperers. Save our company millions (or perhaps bil
   
 # Strategy
 - Using the provided dataset, we can solve the problem by getting the following:
- - How many more cycles a turbofan has until failure
- - Will this turbofan fail within X cycles?
- - Will this fan fail within a certain timeframe?
+  - How many more cycles a turbofan has until failure
+  - Will this turbofan fail within X cycles?
+  - Will this fan fail within a certain timeframe?
  
  # ETL
  
